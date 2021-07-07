@@ -1,0 +1,24 @@
+.one
+{width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;}
+  .succ{
+  	color:red;
+  }
+  html, body, #root, .Success {
+  width: 100%;
+  height: 100%;
+  background-color: #d1d1d1
+}
+
+/* 612px x 792px is our default size of a PDF */
+.pdf {
+  width: 612px;
+  height: 792px;
+  background-color: white;
+  margin: 0 auto;
+}
